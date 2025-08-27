@@ -37,7 +37,7 @@ quotes_api/
 ### 1. Clone repo & install requirements
 
 ```bash
-git clone <repo-url>
+git clone git remote add origin https://github.com/mudassirejaz-art/Quotes_api.git
 cd quotes_api
 pip install -r requirements.txt
 ```
